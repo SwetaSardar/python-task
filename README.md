@@ -1,6 +1,4 @@
-#Python_Task
-
-First task of IIEC-RISE Python(with full stack and flask towards Data science) has been completed.
+# Python_Task
 
 ▪️Problem is :- "Convert the OS based program into a menu driven program using Python Code which will execute the required user query when user will give the input as a text."
 
